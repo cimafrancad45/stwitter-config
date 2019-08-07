@@ -1,2 +1,2 @@
 # stwitter-config
-Config for stwitter project
+Repository containing U2-M2-Summative config files
